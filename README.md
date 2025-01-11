@@ -1,2 +1,1 @@
-npm i
-npm run dev
+deployed link:-https://koinx-frontend-dev-assignment.vercel.app/
